@@ -5,7 +5,7 @@ int find = 41;
 
 int index = 0;
 
-while(index < n);
+while(index < n)
 {
     if(array[index] == find)
     {
